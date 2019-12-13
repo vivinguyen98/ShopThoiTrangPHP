@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule "index.html" "index.php"
+RewriteRule "^san-pham/(.*)-(.*).html$" "chi-tiet-san-pham.php?id=$1$2"
+RewriteRule "^bai-viet/(.*)-(.*).html$" "baiviet.php?id=$1$2"
+RewriteRule "^chuyen-muc/(.*)-(.*).html$" "chuyenmuc.php?id=$1$2"
+RewriteRule "^danh-muc/(.*)-(.*).html$" "danh-muc-san-pham.php?id=$1$2"
+
+

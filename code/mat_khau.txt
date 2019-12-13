@@ -1,0 +1,14 @@
+admin:
+vivinguyen121098@gmail.com
+pass:12345678
+---------------
+user:
+
+thao@gmail.com
+pass:12345678
+
+anhnt@gmail.com
+pass:111
+
+annt@gmail.com
+pass:12345678
